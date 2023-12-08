@@ -89,29 +89,5 @@ export default GeneratePage;
 
 
 
-// <h1 className="text-white text-2xl font-bold mb-2">Generate Page</h1> 
-      
-//       <span className="text-white text-base font-bold">Keyword</span>
-//       <input 
-//         type="text" 
-//         value={prompt}
-//         onChange={(e) => setPrompt(e.target.value)}
-//         className="text-black mt-2 mb-2 p-2"
-//       />
-
-//       <span className="text-white text-base font-bold"># of Blogs</span>
-//       <input 
-//         type="number" 
-//         value={numBlogs}
-//         onChange={(e) => setNumBlogs(parseInt(e.target.value))}
-//         className="text-black mt-2 mb-2 p-2"
-//       />
-      
-//       <button 
-//         onClick={generateBlogs}
-//         className="text-white px-4 py-2 bg-blue-500 rounded hover:bg-blue-700"
-//       >
-//         Generate
-//       </button>
 
 

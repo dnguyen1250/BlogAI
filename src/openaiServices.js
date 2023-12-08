@@ -1,7 +1,7 @@
 import OpanAI from "openai";
 
 const openai = new OpanAI({
-  apiKey: "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",
+  apiKey: process.env.REACT_APP_OPENAI_API_KEY,
   dangerouslyAllowBrowser: true,
 });
 
